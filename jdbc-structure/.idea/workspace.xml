@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36cd6925-5f18-43f5-a151-00c3f0ac25e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment 5/Assignment 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 6/Assignment 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/ApplicationDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/ApplicationDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/CustomerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/SystemDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/TransDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/TransactionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/TransferDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/TransferDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/dbConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortInt/ByteShortInt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSE 143/CSE 143.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharandBoolean/CharandBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExs/CodingExs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Failstate/Failstate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Falistate/Falistate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatandDouble/FloatandDouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaDemo/JavaDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaJDBC/JavaJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaJDBC/src/com/company/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Keywords/Keywords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab 5/Lab 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Last Lab/Last Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewTest/NewTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewerTest/NewerTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/Pizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sectio 5/Sectio 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shin Pizza/Shin Pizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/Switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 8/Week 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-masterclass-28-insert-after-method-challenge/Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/EmployeeDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dbConfig.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20BbA5bXjMb7p9e3g0DRSb9fsSi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.27.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="jdbc-structure" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36cd6925-5f18-43f5-a151-00c3f0ac25e4" name="Changes" comment="" />
+      <created>1635520783777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635520783777</updated>
+    </task>
+    <servers />
+  </component>
+</project>
